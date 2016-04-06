@@ -1,0 +1,76 @@
+<html>
+<head>
+<meta charset="UTF-8"/>
+<script type="text/javascript" src="CollapsibleLists.js"></script>
+<style type="text/css">
+  .treeView{
+    -moz-user-select:none;
+    position:relative;
+    line-height: 1.5;
+  }
+
+  .treeView ul{
+    margin:0 0 0 -1.5em;
+    padding:0 0 0 1.5em;
+  }
+
+  .treeView ul ul{
+    background:url('img/list-item-contents.png') repeat-y left;
+  }
+
+  .treeView li.lastChild > ul{
+    background-image:none;
+  }
+
+  .treeView li{
+    margin:0;
+    padding:0;
+    background:url('img/list-item-root.png') no-repeat top left;
+    list-style-position:inside;
+    list-style-image:url('img/button.png');
+    cursor:auto;
+  }
+
+  .treeView li.collapsibleListOpen{
+    list-style-image:url('img/button-open.png');
+    cursor:pointer;
+  }
+
+  .treeView li.collapsibleListClosed{
+    list-style-image:url('img/button-closed.png');
+    cursor:pointer;
+  }
+
+  .treeView li li{
+    background-image:url('img/list-item.png');
+    padding-left:1.5em;
+  }
+
+  .treeView li.lastChild{
+    background-image:url('img/list-item-last.png');
+  }
+
+  .treeView li.collapsibleListOpen{
+    background-image:url('img/list-item-open.png');
+  }
+
+  .treeView li.collapsibleListOpen.lastChild{
+    background-image:url('img/list-item-last-open.png');
+  }
+
+</style>
+</head>
+<body>
+<ul class="treeView">
+<li>
+<ul class="collapsibleList">
+<!--CONTENT-->
+</ul>
+</li>
+</ul>
+<script type="text/javascript">
+	//make the appropriate lists collapsible
+	CollapsibleLists.apply();
+</script>
+</body>
+</html>

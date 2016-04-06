@@ -1,0 +1,195 @@
+<wnc>
+	<meta-layer id='prepositions' caption='LOCTist of Prepositions' type='string' />
+	<gr l='prepositions'>
+		<meta w='а-ля' v='NOMN' />
+		<meta w='без' v='GENT' />
+		<meta w='без ведома' v='GENT' />
+		<meta w='безо' v='GENT' />
+		<meta w='благодаря' v='DATV' />
+		<meta w='близ' v='GENT' />
+		<meta w='близко от' v='GENT' />
+		<meta w='в' v='ACCS LOCT' />
+		<meta w='в виде' v='GENT' />
+		<meta w='в зависимости от' v='GENT' />
+		<meta w='в интересах' v='GENT' />
+		<meta w='в качестве' v='GENT' />
+		<meta w='в лице' v='GENT' />
+		<meta w='в отличие от' v='GENT' />
+		<meta w='в отношении' v='GENT' />
+		<meta w='в пандан' v='GENT' />
+		<meta w='в пользу' v='GENT' />
+		<meta w='в преддверии' v='GENT' />
+		<meta w='в продолжение' v='GENT' />
+		<meta w='в результате' v='GENT' />
+		<meta w='в роли' v='GENT' />
+		<meta w='в связи с' v='DATV' />
+		<meta w='в силу' v='GENT' />
+		<meta w='в случае' v='GENT' />
+		<meta w='в соответствии с' v='DATV' />
+		<meta w='в течение' v='GENT' />
+		<meta w='в целях' v='GENT' />
+		<meta w='вблизи' v='GENT' />
+		<meta w='ввиду' v='GENT' />
+		<meta w='вглубь' v='GENT' />
+		<meta w='вдогон' v='DATV' />
+		<meta w='вдоль' v='GENT' />
+		<meta w='вдоль по' v='DATV' />
+		<meta w='взамен' v='GENT' />
+		<meta w='включая' v='ACCS' />
+		<meta w='вкруг' v='GENT' />
+		<meta w='вместо' v='GENT' />
+		<meta w='вне' v='GENT' />
+		<meta w='внизу' v='GENT' />
+		<meta w='внутри' v='GENT' />
+		<meta w='внутрь' v='GENT' />
+		<meta w='во' v='LOCT' />
+		<meta w='во имя' v='GENT' />
+		<meta w='возле' v='GENT' />
+		<meta w='вокруг' v='GENT' />
+		<meta w='вопреки' v='DATV' />
+		<meta w='вослед' v='DATV' />
+		<meta w='вослед за' v='ABLT' />
+		<meta w='впереди' v='GENT' />
+		<meta w='вплоть до' v='GENT' />
+		<meta w='впредь до' v='GENT' />
+		<meta w='вразрез с' v='DATV' />
+		<meta w='вроде' v='GENT' />
+		<meta w='вслед' v='DATV' />
+		<meta w='вслед за' v='ABLT' />
+		<meta w='вследствие' v='GENT' />
+		<meta w='для' v='GENT' />
+		<meta w='ради' v='GENT' />
+		<meta w='до' v='GENT' />
+		<!--<meta w='з' v='' />!!!!ukr-->
+		<meta w='за' v='ABLT' />
+		<meta w='за вычетом' v='GENT' />
+		<meta w='за исключением' v='GENT' />
+		<meta w='за счёт' v='GENT' />
+		<meta w='заместо' v='GENT' />
+		<meta w='из' v='GENT' />
+		<meta w='из-за' v='GENT' />
+		<meta w='из-под' v='GENT' />
+		<meta w='изнутри' v='GENT' />
+		<meta w='изо' v='GENT' />
+		<meta w='исходя из' v='GENT' />
+		<meta w='к' v='DATV' />
+		<meta w='касательно' v='GENT' />
+		<meta w='ко' v='DATV' />
+		<meta w='кроме' v='GENT' />
+		<meta w='кругом' v='GENT' />
+		<meta w='лицом к лицу с' v='ABLT' />
+		<meta w='меж' v='ABLT' />
+		<meta w='между' v='ABLT' />
+		<meta w='мимо' v='GENT' />
+		<meta w='на' v='ACCS LOCT' />
+		<meta w='на благо' v='DATV' />
+		<meta w='на виду у' v='GENT' />
+		<meta w='на глазах у' v='GENT' />
+		<meta w='на предмет' v='GENT' />
+		<meta w='наверху' v='GENT' />
+		<meta w='навстречу' v='DATV' />
+		<meta w='над' v='LOCT' />
+		<meta w='надо' v='ABLT' />
+		<meta w='накануне' v='GENT' />
+		<meta w='наперекор' v='DATV' />
+		<meta w='наперерез' v='DATV' />
+		<meta w='наподобие' v='GENT' />
+		<meta w='напротив' v='GENT' />
+		<meta w='наряду с' v='ABLT' />
+		<meta w='насупротив' v='DATV' />
+		<meta w='насчёт' v='GENT' />
+		<meta w='начиная с' v='GENT' />
+		<meta w='не без' v='GENT' />
+		<!--<meta w='не в' v='' />!!!!-->
+		<!--<meta w='не за' v='' />!!!!-->
+		<meta w='не считая' v='GENT' />
+		<meta w='невзирая на' v='ACCS' />
+		<meta w='недалеко от' v='GENT' />
+		<meta w='независимо от' v='GENT' />
+		<meta w='несмотря на' v='ACCS' />
+		<meta w='ниже' v='GENT' />
+		<meta w='о' v='LOCT' />
+		<meta w='об' v='LOCT' />
+		<meta w='обо' v='LOCT' />
+		<meta w='обок' v='GENT DATV' />
+		<meta w='обок с' v='ABLT' />
+		<meta w='около' v='GENT' />
+		<meta w='окрест' v='GENT' />
+		<meta w='окромя' v='GENT' />
+		<meta w='округ' v='GENT' />
+		<meta w='опосля' v='GENT' />
+		<meta w='от' v='GENT' />
+		<meta w='от имени' v='GENT' />
+		<meta w='от лица' v='GENT' />
+		<meta w='относительно' v='GENT' />
+		<meta w='ото' v='GENT' />
+		<meta w='перед' v='ABLT' />
+		<meta w='передо' v='ABLT' />
+		<meta w='по' v='DATV' />
+		<meta w='по линии' v='GENT' />
+		<meta w='по мере' v='GENT' />
+		<meta w='по направлению к' v='DATV' />
+		<meta w='по отношению к' v='DATV' />
+		<meta w='по поводу' v='GENT' />
+		<meta w='по причине' v='GENT' />
+		<meta w='по случаю' v='GENT' />
+		<meta w='по сравнению с' v='ABLT' />
+		<meta w='по-за' v='ACCS ABLT' />
+		<meta w='по-над' v='ABLT' />
+		<meta w='по-под' v='ABLT' />
+		<meta w='поблизости от' v='GENT' />
+		<meta w='поверх' v='GENT' />
+		<meta w='под' v='ABLT' />
+		<meta w='под видом' v='GENT' />
+		<meta w='под эгидой' v='GENT' />
+		<meta w='подле' v='GENT' />
+		<meta w='подо' v='ABLT' />
+		<meta w='подобно' v='DATV' />
+		<meta w='позади' v='GENT' />
+		<meta w='позднее' v='GENT' />
+		<meta w='помимо' v='GENT' />
+		<meta w='поперёк' v='GENT' />
+		<meta w='порядка' v='GENT' />
+		<meta w='посередине' v='GENT' />
+		<meta w='посередь' v='GENT' />
+		<meta w='после' v='GENT' />
+		<meta w='посреди' v='GENT' />
+		<meta w='посредине' v='GENT' />
+		<meta w='посредством' v='GENT' />
+		<meta w='пред' v='ABLT' />
+		<meta w='предо' v='ABLT' />
+		<meta w='прежде' v='GENT' />
+		<meta w='при' v='LOCT' />
+		<meta w='при помощи' v='GENT' />
+		<meta w='применительно к' v='ABLT' />
+		<meta w='про' v='GENT' />
+		<meta w='против' v='GENT' />
+		<meta w='путём' v='GENT' />
+		<meta w='ради' v='GENT' />
+		<meta w='рядом с' v='ABLT' />
+		<meta w='с' v='ABLT' />
+		<meta w='с ведома' v='GENT' />
+		<meta w='с помощью' v='GENT' />
+		<meta w='с точки зрения' v='GENT' />
+		<meta w='с целью' v='GENT' />
+		<meta w='сверх' v='GENT' />
+		<meta w='сверху' v='GENT' />
+		<meta w='свыше' v='GENT' />
+		<meta w='сзади' v='GENT' />
+		<meta w='сквозь' v='ACCS' />
+		<meta w='скрозь' v='ACCS' />
+		<meta w='следом за' v='ABLT' />
+		<meta w='смотря по' v='DATV' />
+		<meta w='снизу' v='GENT' />
+		<meta w='со' v='ABLT' />
+		<meta w='согласно' v='DATV' />
+		<meta w='спустя' v='GENT' />
+		<meta w='среди' v='GENT' />
+		<meta w='средь' v='GENT' />
+		<meta w='сродни' v='DATV' />
+		<meta w='судя по' v='DATV' />
+		<meta w='супротив' v='DATV' />
+		<meta w='через' v='GENT' />
+		<meta w='чрез' v='GENT' />
+	</gr>
+</wnc>

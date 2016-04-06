@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Analisys
+Bundle-SymbolicName: com.onpositive.text.analisys
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: ONPOSITIVE
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: com.onpositive.text.analysis,
+ com.onpositive.text.analysis.filtering,
+ com.onpositive.text.analysis.lexic,
+ com.onpositive.text.analysis.lexic.dates,
+ com.onpositive.text.analysis.lexic.dimension,
+ com.onpositive.text.analysis.lexic.scalar,
+ com.onpositive.text.analysis.projection.creators,
+ com.onpositive.text.analysis.rules,
+ com.onpositive.text.analysis.rules.matchers,
+ com.onpositive.text.analysis.syntax,
+ com.onpositive.text.analysis.utils
+Require-Bundle: com.onpositive.wordnet;bundle-version="1.0.1",
+ com.onpositive.hppc.repackaged;bundle-version="1.0.0"
+

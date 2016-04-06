@@ -1,0 +1,584 @@
+Все остальные сами попадают к кому-то в пасть
+ADJF ADJF ADJF VERB PREP NPRO PREP NOUN
+
+Волчица взяла в пасть загривок лисёнка
+NOUN VERB PREP NOUN NOUN NOUN
+
+В обеденный перерыв Агренев приходил домой
+PREP ADJF NOUN NOUN VERB ADVB
+
+Сейчас у Кудинова обеденный перерыв, шестьдесят минут дозволенной свободы
+ADVB PREP NOUN ADJF NOUN NUMR NOUN ADJF NOUN
+
+Мартин Мартиныч, не глядя, выгреб какие-то бумаги из стола, кинул в печь
+NOUN NOUN PRCL GRND VERB ADJF NOUN PREP NOUN VERB PREP NOUN
+
+Несмотря ни на какую погоду, он каждый день жарко натапливал русскую печь
+PREP PRCL PREP ADJF NOUN NPRO ADJF NOUN ADVB VERB ADJF NOUN
+
+Выкорчеванные пни - оригинальный материал для ландшафтной композиции
+PRTF NOUN ADJF NOUN PREP ADJF NOUN
+
+Поэт корчевал пни, дабы освободить место для плантации чая
+NOUN VERB NOUN CONJ VERB NOUN PREP NOUN NOUN
+
+Прямая молния угодила в сосну, спиралью обошла ствол, пропахала кору до древесины и нырнула в торф
+ADJF NOUN VERB PREP NOUN ADVB VERB NOUN VERB NOUN PREP NOUN CONJ VERB PREP NOUN
+
+Любочка всегда ужасно рада, когда ей удаётся поговорить с большим мужчиной
+NOUN ADVB ADVB ADJS CONJ NPRO VERB INFN PREP ADJF NOUN
+
+Она будет очень рада, потому что ей скучно
+NPRO VERB ADVB ADJS CONJ NPRO ADVB
+
+Рузаев самолично приказал сечь нещадно, хотя в чем было винить эту темную женщину
+NOUN ADVB VERB INFN ADVB CONJ PREP NPRO VERB INFN ADJF ADJF NOUN
+
+влезши в сечь, не клонись прилечь
+GRND PREP NOUN PRCL VERB INFN
+
+Потом смела остатки муки в ведро и протерла стол
+ADVB VERB NOUN NOUN PREP NOUN CONJ VERB NOUN
+
+Ты белых лебедей кормила, откинув тяжесть чёрных кос
+NPRO ADJF NOUN VERB GRND NOUN ADJF NOUN
+
+Я рядом плыл; сошлись кормила; Закатный луч был странно кос
+NPRO ADVB VERB VERB NOUN ADJF NOUN VERB ADVB ADJS
+
+Индия успешно запустила ракету с криогенным двигателем
+NOUN ADVB VERB NOUN PREP ADJF NOUN
+
+Россиянам предложили назвать существующий только на бумаге лунный корабль
+NOUN VERB INFN PRTF ADVB PREP NOUN ADJF NOUN
+
+Американские ученые научили нанорыбок плавать
+ADJF NOUN VERB NOUN INFN
+
+один падает в пропасть, а другой в помойную яму
+ADJF VERB PREP NOUN CONJ ADJF PREP ADJF NOUN
+
+Из-за решетки «Спидолы» торчала фотокарточка, ажурно обрезанная по краям
+PREP NOUN NOUN VERB NOUN ADVB PRTF PREP NOUN
+
+Волга здесь довольно мелка, так что паром идет посредством багров, упираемых в дно
+NOUN ADVB ADVB ADJS CONJ NOUN VERB PREP NOUN PRTF PREP NOUN
+
+Арестован бессрочноотпускной солдат Иванов, который подделывал жетоны общественных бань для простонародья
+PRTS ADJF NOUN NOUN ADJF VERB NOUN ADJF NOUN PREP NOUN
+
+Он вообще большой любитель бань
+NPRO ADVB ADJF NOUN NOUN
+
+К нему в трактир частенько захаживает некий Иван Прохорович Бородин, человек лет пятидесяти, местный богатей, владелец кирпичного завода
+PREP NPRO PREP NOUN ADVB VERB ADJF NOUN NOUN NOUN NOUN NOUN NUMR ADJF NOUN NOUN ADJF NOUN
+
+Один сельский богатей под Красноярском думал выдавать дочь замуж после Покрова
+ADJF ADJF NOUN PREP NOUN VERB INFN NOUN ADVB PREP NOUN
+
+Примета не велит уйти с пустой посудой
+NOUN PRCL VERB INFN PREP ADJF NOUN
+
+Алексей велит дать ему все координаты малолетней шантажистки
+NOUN VERB INFN NPRO ADJF NOUN ADJF NOUN
+
+Он винил себя в том что не смог спасти
+NPRO VERB NPRO PREP ADJF CONJ PRCL VERB INFN
+
+Саму старуху он не винил, хотя при жизни состоял с ней в отношениях весьма прохладных
+ADJF NOUN NPRO PRCL VERB CONJ PREP NOUN VERB PREP NPRO PREP NOUN ADVB ADJF
+
+В нашем доме никогда не случалось такого, чтобы не вывозился мусор, чтобы не приходил по вызову электромонтер
+PREP ADJF NOUN ADVB PRCL VERB ADJF CONJ PRCL VERB NOUN CONJ PRCL VERB PREP NOUN NOUN
+
+Если такая спешка, жажда кислорода, то я вызову контролера сейчас
+CONJ ADJF NOUN NOUN NOUN CONJ NPRO VERB NOUN ADVB
+
+Чтобы к моему вызову отнеслись со всей серьезностью, я сказала диспетчеру
+CONJ PREP ADJF NOUN VERB PREP ADJF NOUN NPRO VERB NOUN
+
+Внезапно выплыв из мутной воды они буквально наталкиваются на меня
+ADVB GRND PREP ADJF NOUN NPRO ADVB VERB PREP NPRO
+
+Это первый выплыв Степана «по матушке по Волге»
+ADJF ADJF NOUN NOUN PREP NOUN PREP NOUN
+
+Виртуозно наполненный богатым растительным переплетом орнамент абсолютно скрывал гладь стен под своим рельефным ковром
+ADVB PRTF ADJF ADJF NOUN NOUN ADVB VERB NOUN NOUN PREP ADJF ADJF NOUN
+
+И вновь появится сиреневая гладь
+PRCL ADVB VERB ADJF NOUN
+
+Откуда в такой глуши взяться оптимизму
+ADVB PREP ADJF NOUN VERB NOUN
+
+В обоих способах мясо плотно укладывают, сверху обязательно ставят гнет
+PREP NUMR NOUN NOUN ADVB VERB ADVB ADVB VERB NOUN
+
+Рыба воняла, бананы гнили, а джинсы гроздьями свешивались с прилавков, почти касаясь грязноватого затоптанного пола
+NOUN VERB NOUN VERB CONJ NOUN ADVB VERB PREP NOUN ADVB GRND ADJF ADJF NOUN
+
+Каменные плиты мостовой поражают уровнем полировки: в гранит пола можно преспокойно смотреться как в зеркало
+ADJF NOUN NOUN VERB NOUN NOUN PREP NOUN NOUN VERB ADVB INFN CONJ PREP NOUN
+
+Викниксор грозно глядел на его ноги
+NOUN ADVB VERB PREP ADJF NOUN
+
+А левее, уступом грозно поднимается французская армия генерала Бертело
+CONJ COMP NOUN ADVB VERB ADJF NOUN NOUN NOUN
+
+Из автомобиля с недовольным видом выдвинулся громила водитель, явно под наркотиками
+PREP NOUN PREP ADJF NOUN VERB NOUN NOUN ADVB PREP NOUN
+
+Напротив, я пылал в то время, как она громила несчастных горожан
+ADVB NPRO VERB PREP ADJF NOUN CONJ NPRO VERB ADJF NOUN
+
+Ощути себя в гуще сражения на месте твоего славного предка
+VERB NPRO PREP NOUN NOUN PREP NOUN ADJF ADJF NOUN
+
+Дорога тянулась по краю широкой излуки, километров в десять - пятнадцать, с высокими тёмно-синими в июльских сумерках берегами
+NOUN VERB PREP NOUN ADJF NOUN NOUN PREP NUMR NUMR PREP ADJF ADJF PREP ADJF NOUN NOUN
+
+Теперь они направляют дула автоматов друг на друга
+ADVB NPRO VERB NOUN NOUN NOUN PREP NOUN
+
+Сопоставление двух миров происходило естественно
+NOUN NUMR NOUN VERB ADVB
+
+Они возникают в жаркое время дня на берегах рек или озёр
+NPRO VERB PREP ADJF NOUN NOUN PREP NOUN NOUN CONJ NOUN
+
+Он у нас чуть ли не главный заводила в команде
+NPRO PREP NPRO ADVB PRCL PRCL ADJF NOUN PREP NOUN
+
+Может быть, она заводила будильник на определенное время
+VERB INFN NPRO VERB NOUN PREP ADJF NOUN
+
+Эти вопросы я задавала в бесконечных письмах в КГБ и Прокуратуру, но ответа не получала
+ADJF NOUN NPRO VERB PREP ADJF NOUN PREP NOUN CONJ NOUN CONJ NOUN PRCL VERB
+
+Следует отметить, что у американских коллег имелся хороший задел
+VERB INFN CONJ PREP ADJF NOUN VERB ADJF NOUN
+
+Нас задел хвост грозового фронта, который возник на побережье Орегона
+NPRO VERB NOUN ADJF NOUN ADJF VERB PREP NOUN NOUN
+
+Она широко раскрывала клюв, задирала голову кверху
+NPRO ADVB VERB NOUN VERB NOUN ADVB
+
+При этом она выбрасывала вверх руки и задирала голову в ночное агатовое небо
+PREP ADJF NPRO VERB ADVB NOUN CONJ VERB NOUN PREP ADJF ADJF NOUN
+
+Дамбу разрезали, снова пустили воду в залив
+NOUN VERB ADVB VERB NOUN PREP NOUN
+
+Я замер от приятной щекотки присутствия такой маленькой птички
+NPRO VERB PREP ADJF NOUN NOUN ADJF ADJF NOUN
+
+Леонид Андреев находит неистощимый запас красочных слов и неотразимых образов
+NOUN NOUN VERB ADJF NOUN ADJF NOUN CONJ ADJF NOUN
+
+Только кое-где в рядах отзывались на запев молодые, задорные голоса
+ADVB ADVB PREP NOUN VERB PREP NOUN ADJF ADJF NOUN
+
+Тороп запахнул полы своего кафтана, подтянул кушак и, запев вполголоса
+NOUN VERB NOUN ADJF NOUN VERB NOUN CONJ GRND ADVB
+
+Лучшим песенником был запевала нашего эскадрона, лихой унтер-офицер Пурышев
+ADJF NOUN VERB NOUN ADJF NOUN ADJF NOUN NOUN
+
+Тогда она не запевала песни, как делали другие: пение отвлекало ее от работы
+ADVB NPRO PRCL VERB NOUN CONJ VERB ADJF NOUN VERB NPRO PREP NOUN
+
+Одни мужчины явились к проклятому обмывать славный заплыв
+ADJF NOUN VERB PREP ADJF INFN ADJF NOUN
+
+Ввиду того что линия старта была короткой, в заплыв одновременно шли четыре пловца
+PREP ADJF CONJ NOUN NOUN VERB ADJF PREP NOUN ADVB VERB NUMR NOUN
+
+Иногда их мучила совесть, и тогда они уходили в недельный запой
+ADVB NPRO VERB NOUN CONJ ADVB NPRO VERB PREP ADJF NOUN
+
+На том берегу этой речки белые мундиры, засев в кустарнике, стреляли в наступающих
+PREP ADJF NOUN ADJF NOUN ADJF NOUN GRND PREP NOUN VERB PREP NOUN
+
+А здесь у южных застав Пномпеня река представляется адом
+CONJ ADVB PREP ADJF NOUN NOUN NOUN VERB NOUN
+
+И сладкий дым тщеславия застил мне глаза
+CONJ ADJF NOUN NOUN VERB NPRO NOUN
+
+Подбитый глаз затек, саднили бровь и веко
+PRTF NOUN VERB VERB NOUN CONJ NOUN
+
+Ищите для своих затей кого помоложе и поглупее
+VERB PREP ADJF NOUN NPRO COMP CONJ COMP
+
+Там показали Алёше диких зверей, которые привязаны были на золотых цепях
+ADVB VERB NOUN ADJF NOUN ADJF PRTS VERB PREP ADJF NOUN
+
+Под влиянием ее я стала здоровей и веселей
+PREP NOUN ADJF NPRO VERB COMP CONJ COMP
+
+Сумку мою зажали между двух спин, я была зла и готова кусаться
+NOUN ADJF VERB PREP NUMR NOUN NPRO VERB ADJS CONJ ADJS INFN
+
+Я должен был знать штрихи и аппликатуру к первой части концерта Бетховена
+NPRO ADJS VERB INFN NOUN CONJ NOUN PREP ADJF NOUN NOUN NOUN
+
+Руслан сейчас очень зол на меня
+NOUN ADVB ADVB ADJS PREP NPRO
+
+Я тянула мужа изо всех сил, подхлестывала его, зубрила вместе с ним
+NPRO VERB NOUN PREP ADJF NOUN VERB NPRO VERB ADVB PREP NPRO
+
+Сестры зубрят историю, до меня долетает знакомое имя, и я прислушиваюсь
+NOUN VERB NOUN PREP NPRO VERB ADJF NOUN CONJ NPRO VERB
+
+Наконец после очередного поворота внизу под склоном взблескивает извив реки
+ADVB PREP ADJF NOUN ADVB PREP NOUN VERB NOUN NOUN
+
+Священник уронил кадило и моментально скрылся внизу
+NOUN VERB NOUN CONJ ADVB VERB ADVB
+
+Сеня увидел еще: серебряное кадило кривошеего попа с жадностью пожирало Катушинский ладан
+NOUN VERB ADVB ADJF NOUN ADJF NOUN PREP NOUN VERB ADJF NOUN
+
+Харин снова наклонился, прикрыл глаза, высунул язык и аккуратно слизнул рубиновую капельку джема с кремового кончика
+NOUN ADVB VERB VERB NOUN VERB NOUN CONJ ADVB VERB ADJF NOUN NOUN PREP ADJF NOUN
+
+Слишком долго я кис в литературных петербургских кружках
+ADVB ADVB NPRO VERB PREP ADJF ADJF NOUN
+
+Сразу представляется клей, мощным насосом перекачиваемый по трубам
+ADVB VERB NOUN ADJF NOUN PRTF PREP NOUN
+
+Если добавить в обойный клей пищевой краситель, то плохо промазанные места на обоях заметить будет намного проще
+CONJ INFN PREP ADJF NOUN ADJF NOUN CONJ ADVB PRTF NOUN PREP NOUN INFN VERB ADVB COMP
+
+Помнишь, в сказке про семерых козлят, когда они ему дверь не открывали, он назвал себя их мамой
+VERB PREP NOUN PREP NUMR NOUN CONJ NPRO NPRO NOUN PRCL VERB NPRO VERB NPRO ADJF NOUN
+
+Он копал, подставляя спину жаркому солнцу, а грудь - поднимающемуся из ямы холоду
+NPRO VERB GRND NOUN ADJF NOUN CONJ NOUN PRTF PREP NOUN NOUN
+
+Взвод вонзился в село, как вилы в копну сена
+NOUN VERB PREP NOUN CONJ NOUN PREP NOUN NOUN
+
+Жена уныло кормила его помидорами из авоськи
+NOUN ADVB VERB NPRO NOUN PREP NOUN
+
+Бойкая старуха кормила пленников чечевичной похлебкой с чесноком
+ADJF NOUN VERB NOUN ADJF NOUN PREP NOUN
+
+Стояла колода с маленькой наковаленкой для отбивки кос
+VERB NOUN PREP ADJF NOUN PREP NOUN NOUN
+
+В окна видна коса, уходящая острием в Чукотское море
+PREP NOUN ADJS NOUN PRTF NOUN PREP ADJF NOUN
+
+Требования к костюму просты: хороший крой, качественная ткань, спокойные цвета
+NOUN PREP NOUN ADJS ADJF NOUN ADJF NOUN ADJF NOUN
+
+И потому брезгливо, точно старый кутила, оттопырив нижнюю губу, он сказал недоверчиво
+CONJ CONJ ADVB CONJ ADJF NOUN GRND ADJF NOUN NPRO VERB ADVB
+
+Героев наших мало волновало отсутствие билетов: словно лёгкие тени, проскользнули они мимо контролёра
+NOUN ADJF ADVB VERB NOUN NOUN CONJ ADJF NOUN VERB NPRO PREP NOUN
+
+Я услышал лёгкие шаги бега под окном, дверь отворилась, в комнату бесшумно скользнула Валя
+NPRO VERB ADJF NOUN NOUN PREP NOUN NOUN VERB PREP NOUN ADVB VERB NOUN
+
+Под лай Вергилиуса, которому оставалось только в ярости грызть собственную цепь, Мури позавтракал
+PREP NOUN NOUN ADJF VERB PRCL PREP NOUN INFN ADJF NOUN NOUN VERB
+
+Лай стал перемежаться захлебывающимся рычанием, выдались клыки
+NOUN VERB INFN PRTF NOUN VERB NOUN
+
+На раны воду лей, спасай от боли
+PREP NOUN NOUN VERB VERB PREP NOUN
+
+Увидев Шустова она молча без лая бросилась на него
+GRND NOUN NPRO ADVB PREP NOUN VERB PREP NPRO
+
+Молодые расписывались под сенью вековых лип и дубов
+NOUN VERB PREP NOUN ADJF NOUN CONJ NOUN
+
+Остров Хейса за лето оттаивает и украшается желтыми огоньками полярных маков
+NOUN NOUN PREP NOUN VERB CONJ VERB ADJF NOUN ADJF NOUN
+
+Заросли черных маков протянулись на тысячи километров
+NOUN ADJF NOUN VERB PREP NOUN NOUN
+
+Очень манила прекрасная старинная русская речь, которой я уже свободно могла владеть
+ADVB VERB ADJF ADJF ADJF NOUN ADJF NPRO ADVB ADVB VERB INFN
+
+Я на своем веку довольно марал бумаги
+NPRO PREP ADJF NOUN ADVB VERB NOUN
+
+К маю мы должны закончить постановку программного обеспечения в имеющихся аптечных пунктах
+PREP NOUN NPRO ADJS INFN NOUN ADJF NOUN PREP PRTF ADJF NOUN
+
+Согласитесь, в наших климатических условиях она действительно начинается ближе к маю
+VERB PREP ADJF ADJF NOUN NPRO ADVB VERB COMP PREP NOUN
+
+Две симметричные щетки усиков мели пол
+NUMR ADJF NOUN NOUN VERB NOUN
+
+На проспекте народные массы с невиданным энтузиазмом мели тротуары
+PREP NOUN ADJF NOUN PREP PRTF NOUN VERB NOUN
+
+Я бабушкины бриллианты на мелок записал
+NPRO ADJF NOUN PREP NOUN VERB
+
+Петька неопределенно проводил рукой по обложке и быстро менял тактику
+NOUN ADVB VERB NOUN PREP NOUN CONJ ADVB VERB NOUN
+
+Время от времени я менял увядшие травы и наводил порядок в аквариуме
+NOUN PREP NOUN NPRO VERB ADJF NOUN CONJ PREP NOUN PREP NOUN
+
+Россия за тысячу с лишним лет своей истории также не раз меняла партнеров
+NOUN PREP NOUN PREP ADJF NOUN ADJF NOUN ADVB PRCL NOUN VERB NOUN
+
+На довольно грубом белье меток не имелось, сапоги изрядно истоптаны
+PREP ADVB ADJF NOUN NOUN PRCL VERB NOUN ADVB PRTS
+
+Мечи сделаны из серебристого металла «под старину»
+NOUN PRTS PREP ADJF NOUN PREP NOUN
+
+Могучие, голые по пояс кузнецы перековывали военные мечи на мирные орала
+ADJF ADJF PREP NOUN NOUN VERB ADJF NOUN PREP ADJF NOUN
+
+Комета, подобная огненному мечу архангела, плыла в черном небе
+NOUN ADJF ADJF NOUN NOUN VERB PREP ADJF NOUN
+
+Я здесь мечу икру
+NPRO ADVB VERB NOUN
+
+У нее удар крепкий, мигом оживит
+PREP NPRO NOUN ADJF ADVB VERB
+
+Все они трепещут перед тем первым мигом, когда картину пронзают рентгеновские очи эксперта
+NPRO NPRO VERB PREP ADJF ADJF NOUN CONJ NOUN VERB ADJF NOUN NOUN
+
+В одном из боевых походов корабль Курта наскочил на мину и получил повреждения
+PREP ADJF PREP ADJF NOUN NOUN NOUN VERB PREP NOUN CONJ VERB NOUN
+
+Саша незаметно закладывал мину, и где-то в пути поезд взрывался
+NOUN ADVB VERB NOUN CONJ ADVB PREP NOUN NOUN VERB
+
+Но именно это качество определило мой сценический образ
+CONJ PRCL ADJF NOUN VERB ADJF ADJF NOUN
+
+Улыбнись, взгляни бархатно, молви слово свое драгоценное
+VERB VERB ADVB VERB NOUN ADJF ADJF
+
+Он обычно мыл посуду, объясняя, что ему нравится это простое занятие, оставляющее возможность думать о других вещах
+NPRO ADVB VERB NOUN GRND CONJ NPRO VERB ADJF ADJF NOUN PRTF NOUN INFN PREP ADJF NOUN
+
+Едва ли не каждый день стирала нательное белье, дважды в неделю мыла березовым щелоком голову
+ADVB PRCL PRCL ADJF NOUN VERB ADJF NOUN ADVB PREP NOUN VERB ADJF NOUN NOUN
+
+Иванов взял мыло, тряпку, пошёл к соседям
+NOUN VERB NOUN NOUN VERB PREP NOUN
+
+По бортам сожженной «коробки» обозник разложил настоящее богатство: глицериновое мыло
+PREP NOUN PRTF NOUN NOUN VERB ADJF NOUN ADJF NOUN
+
+Подобные мысли высказывал ранее и его заместитель В. Григорьев, курирующий российское книгоиздание
+ADJF NOUN VERB COMP CONJ ADJF NOUN NOUN NOUN PRTF ADJF NOUN
+
+К этой банальной мысли придётся привыкнуть всем жителям сети
+PREP ADJF ADJF NOUN VERB INFN ADJF NOUN NOUN
+
+Размножается целебная мята вегетативным путем, разбрасывая по земле толстые и длинные стебли
+VERB ADJF NOUN ADJF NOUN GRND PREP NOUN ADJF CONJ ADJF NOUN
+
+Она физически ощущала этот нагрев от пыточного огня
+NPRO ADVB VERB ADJF NOUN PREP ADJF NOUN
+
+Профсоюзный инспектор уже надел пиджак, притих, оробел, попав в силовое поле людского смятения
+ADJF NOUN ADVB VERB NOUN VERB VERB GRND PREP ADJF NOUN ADJF NOUN
+
+Во время игры старшая Надя неизменно надувала Колю
+PREP NOUN NOUN ADJF NOUN ADVB VERB NOUN
+
+На северо-востоке от Актового зала отходит широкая галерея, приводящая на Эверест - высокий холмообразный глинистый намыв
+PREP NOUN PREP ADJF NOUN VERB ADJF NOUN PRTF PREP NOUN ADJF ADJF ADJF NOUN
+
+Закончив намыв плотины, мы приняли активное участие в перекрытии старого русла Дона
+GRND NOUN NOUN NPRO VERB ADJF NOUN PREP NOUN ADJF NOUN NOUN
+
+Обычно намыв земляной плотины производится за каменной набросной дамбой
+ADVB NOUN ADJF NOUN VERB PREP ADJF ADJF NOUN
+
+День собирался быть жарким, угарная сушь настаивалась в воздухе и надувала пыль на только что распустившиеся тополя
+NOUN VERB INFN ADJF ADJS NOUN VERB PREP NOUN CONJ VERB NOUN PREP ADVB PRTF NOUN
+
+Какой-то религиозный фанатик пытался с ножом напасть на Спинозу, но он сумел себя защитить
+ADJF ADJF NOUN VERB PREP NOUN INFN PREP NOUN CONJ NPRO VERB NPRO INFN
+
+Бурное развитие цивилизации принесло нам не одну напасть
+ADJF NOUN NOUN VERB NPRO PRCL ADJF NOUN
+
+Но что за хищник сумел напасть на журавлей, откуда он взялся - это предстояло узнать
+CONJ PRCL PREP NOUN VERB INFN PREP NOUN ADVB NPRO VERB ADJF VERB INFN
+
+Старухи бесновались и выли, но не решались напасть
+NOUN VERB CONJ VERB CONJ PRCL VERB INFN
+
+Он носится на коне по провинциям, пытаясь напасть на ее след
+NPRO VERB PREP NOUN PREP NOUN GRND INFN PREP ADJF NOUN
+
+Городок сонно млел под луной, утонув по крыши в разливе лип и боярышника, под печальный напев Митиной трубы
+NOUN ADVB VERB PREP NOUN GRND PREP NOUN PREP NOUN NOUN CONJ NOUN PREP ADJF NOUN ADJF NOUN
+
+Остальные монахи тут же подхватили напев канона и вскоре помещение заполнило мощное горловое пение исполняемое а капелла
+ADJF NOUN ADVB VERB NOUN NOUN CONJ ADVB NOUN VERB ADJF ADJF NOUN PRTF ADVB
+
+Тропари каждой песни пишутся вне зависимости от темы ведущего ирмоса, сохраняя только его напев
+NOUN ADJF NOUN VERB PREP NOUN PREP NOUN PRTF NOUN GRND ADVB ADJF NOUN
+
+Также в регионе отмечается значительный наплыв граждан стран СНГ, далеко не все из которых находятся в Приангарье легально
+ADVB PREP NOUN VERB ADJF NOUN NOUN NOUN NOUN ADVB PRCL ADJF PREP ADJF VERB PREP NOUN ADVB
+
+У нас в Петербурге еще с момента создания левоцентристского движения «Россия» мы испытали солидный наплыв желающих работать в рядах нашей организации
+PREP NPRO PREP NOUN ADVB PREP NOUN NOUN ADJF NOUN NOUN NPRO VERB ADJF NOUN NOUN INFN PREP NOUN ADJF NOUN
+
+С первого до последнего дня выставки на стенде мирового лидера в области декоративных бумаг наблюдался наплыв гостей
+PREP ADJF PREP ADJF NOUN NOUN PREP NOUN ADJF NOUN PREP NOUN ADJF NOUN VERB NOUN NOUN
+
+Хочу отметить, что, несмотря на такой наплыв отдыхающих, наши здравницы не были полностью заполнены
+VERB INFN CONJ PREP ADJF NOUN NOUN ADJF NOUN PRCL VERB ADVB PRTS
+
+Быстро напой мне
+ADVB VERB NPRO
+
+Один, раскосый, дернул украдкой сладкого вина, и ему в соседней комнате приказчик нарвал уши
+ADJF ADJF VERB ADVB ADJF NOUN CONJ NPRO PREP ADJF NOUN NOUN VERB NOUN
+
+Ленка все коленки обдирала, лазила да прыгала, сопела от усердия
+NOUN ADJF NOUN VERB VERB CONJ VERB VERB PREP NOUN
+
+Вытащив головни из банки, обдув их и сложив тлеющие концы вместе, я раздул огонь
+GRND NOUN PREP NOUN GRND NPRO CONJ GRND PRTF NOUN ADVB NPRO VERB NOUN
+
+Земляне на всякий случай включили воздушный обдув из воротников скафандров
+NOUN PREP ADJF NOUN VERB ADJF NOUN PREP NOUN NOUN
+
+Теперь эту самодеятельность наши путейцы первыми на всей сети прекратили, наладили обдув стрелок
+ADVB ADJF NOUN ADJF NOUN ADJF PREP ADJF NOUN VERB VERB PREP PREP
+
+Тело его облегчилось, а голову обдувала тёплым ветерком дрёма
+NOUN ADJF VERB CONJ NOUN VERB ADJF NOUN NOUN
+
+Да и сама Волга-матушка не ласково качала суденышки, а обдувала холодными встречными ветрами
+CONJ ADJF NOUN PRCL ADVB VERB NOUN CONJ VERB ADJF ADJF NOUN
+
+Она подносила горшочек ко рту и ласково обдувала зеленце косолапого отростка
+NPRO VERB NOUN PREP NOUN CONJ ADVB VERB NOUN ADJF NOUN
+
+Боль сначала огнем обжигала ноги, потом поднималась выше, ломала позвоночник, раскаленным железом терзала внутренности
+NOUN ADVB ADVB VERB NOUN ADVB VERB COMP VERB NOUN PRTF NOUN VERB NOUN
+
+Даже сквозь грубую рубаху кожа Рехильды обжигала ладони
+PRCL ADVB ADJF NOUN NOUN NOUN VERB NOUN
+
+Сигарета моя истлела до основания и обжигала пальцы
+NOUN ADJF VERB PREP NOUN CONJ VERB NOUN
+
+Белая глянцевая бумага на морозе обжигала пальцы
+ADJF ADJF NOUN PREP NOUN VERB NOUN
+
+Аграфена Ивановна опять, по простоте, обирала с себя слезинки
+NOUN NOUN ADVB PREP NOUN VERB PREP NPRO NOUN
+
+Шайка эта уже давно обирала доверчивых пассажиров, завлекая их в картежные игры
+NOUN ADJF ADVB ADVB VERB ADJF NOUN GRND NPRO PREP ADJF NOUN
+
+Я черпнула полную горсть и, обмыв лицо, сглотнула спазм
+NPRO VERB ADJF NOUN CONJ GRND NOUN VERB NOUN
+
+Случалось, что украденную рыбу, обмыв хорошенько нечистоты, даже продавали
+VERB CONJ PRTF NOUN GRND ADVB NOUN PRCL VERB
+
+Лишь стена, выходящая на обрыв, от постоянных ветров оставалось голой
+PRCL NOUN PRTF PREP NOUN NOUN ADJF NOUN VERB ADJF
+
+На окраинах - сараи, сараи, огороды, колючая проволока и обязательно крутой обрыв
+PREP NOUN NOUN NOUN NOUN ADJF NOUN CONJ ADVB ADJF NOUN
+
+Поцарапала не неучтивость Макара, а обрыв невидимой другим связи
+VERB PRCL NOUN NOUN PRCL NOUN ADJF ADJF NOUN
+
+Он постоянно убегал из группы, причем его особенно привлекал высокий и крутой обрыв над Камой
+NPRO ADVB VERB PREP NOUN CONJ NPRO ADVB VERB ADJF CONJ ADJF NOUN PREP NOUN
+
+Каждая вторая мышь, наученная опытом, терпеливо объедала эти капканы
+ADJF ADJF NOUN PRTF NOUN ADVB VERB ADJF NOUN
+
+Когда лошадь объедала всю траву вокруг лома на радиусе вытянутой уздечки, он выходил из кухни
+CONJ NOUN VERB ADJF NOUN PREP NOUN PREP NOUN ADJF NOUN NPRO VERB PREP NOUN
+
+Там коза объедала сухую траву на месте героических бастионов времен Севастопольской обороны
+ADVB NOUN VERB ADJF NOUN PREP NOUN ADJF NOUN NOUN ADJF NOUN
+
+Подняв руку - серый фланелевый рукав халата опал вниз, - он ощупывал край окна
+GRND NOUN ADJF ADJF NOUN NOUN VERB ADVB NPRO VERB NOUN NOUN
+
+Михаил Ходорковский якобы вынашивал наполеоновские планы, оптом скупая депутатов
+NOUN NOUN PRCL NOUN ADJF NOUN ADVB GRND NOUN
+
+Особняком стоит лишь зарождение индуизма - религии Древней Индии
+ADVB VERB PRCL NOUN NOUN NOUN ADJF NOUN
+
+Письмо это, стоящее особняком в многотомном эпистолярном чеховском наследии, адресовано сестре Марии Павловне
+NOUN ADJF PRTF ADVB PREP ADJF ADJF ADJF NOUN PRTS NOUN NOUN NOUN
+
+В тот момент он не вызвал у меня особой симпатии
+PREP ADJF NOUN NPRO PRCL VERB PREP NPRO ADJF NOUN
+
+Во всех моих трюках она участвовала, и порой без особой подготовки
+PREP ADJF ADJF NOUN NPRO VERB CONJ ADVB PREP ADJF NOUN
+
+Как вы относитесь к распространённому мнению об особой миссии Польши по отношению к её соседям на Востоке
+ADVB NPRO VERB PREP ADJF NOUN PREP ADJF NOUN NOUN PREP NOUN PREP ADJF NOUN PREP NOUN
+
+Это слово особой ясности не внесло
+ADJF NOUN ADJF NOUN PRCL VERB
+
+Не следует без особой необходимости разбирать изделие для ремонта отдельных его частей, особенно облицованную мебель
+PRCL VERB PREP ADJF NOUN INFN NOUN PREP NOUN ADJF ADJF NOUN ADVB PRTF NOUN
+
+При черепно-мозговых травмах он позволяет предотвратить отек мозга
+PREP ADJF NOUN NPRO VERB INFN NOUN NOUN
+
+С наступлением осенних заморозков ее темно-зеленые розетки приобретают красивый красный отлив
+PREP NOUN ADJF NOUN ADJF ADJF NOUN VERB ADJF ADJF NOUN
+
+За приливом реформизма возможен отлив в той или иной форме
+PREP NOUN NOUN ADJS NOUN PREP ADJF CONJ ADJF NOUN
+
+Снаружи стукали о жестяной отлив крыши замерзшие ветки рябины
+ADVB VERB PREP ADJF NOUN NOUN PRTF NOUN NOUN
+
+При выполнении подъема переворотом сразу в большой отрыв ушел отряд «Витязь»
+PREP NOUN NOUN NOUN ADVB PREP ADJF NOUN VERB NOUN NOUN
+
+Увеличив затем отрыв до минуты с лишним, француз рационально довел гонку до победы
+GRND ADVB NOUN PREP NOUN PREP ADJF NOUN ADVB VERB NOUN PREP NOUN
+
+Происходил большой отсев, был тип вечного студента
+VERB ADJF NOUN VERB NOUN ADJF NOUN
+
+Уменьшать отсев студентов за счет повышения качества преподавания
+INFN NOUN NOUN PREP NOUN NOUN NOUN NOUN
+
+В отсев он попал почти сразу и очень огорчился
+PREP NOUN NPRO VERB ADVB ADVB CONJ ADVB VERB
+
+Только суд Божий произведет окончательный отсев и отделит доброе от злого
+ADVB NOUN ADJF VERB ADJF NOUN CONJ VERB ADJF PREP ADJF
+
+Пари выигрывал тот, кто с одного удара разрубал ребёнка точно пополам
+NOUN VERB ADJF NPRO PREP ADJF NOUN VERB NOUN ADVB ADVB

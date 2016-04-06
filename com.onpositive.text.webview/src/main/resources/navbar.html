@@ -1,0 +1,29 @@
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+	<ul class="nav nav-pills">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<#list menuItems as item>
+		<li role="presentation" class="${item.styleClass}">
+	    	<#if (item.getSubmenu()??)>
+			<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+    		  ${item.title} <span class="caret"></span>
+	    	</a>
+			<#assign submenu = item.getSubmenu()>
+		    <ul class="dropdown-menu">
+				<#list submenu as subitem>
+				<li><a href="${item.globalPath}/${subitem.id}" >${subitem.title}</a></li>
+				</#list>
+		    </ul>
+		    <#else>
+		   		<a href="${item.globalPath}/parsing/${item.id}" >${item.title}</a>
+			</#if>
+			
+		</li>
+		</#list>
+
+	</ul>
+	
+</div>
+</div>
+</div>

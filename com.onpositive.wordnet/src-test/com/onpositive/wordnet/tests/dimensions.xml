@@ -1,0 +1,331 @@
+<wnc>
+	<meta-layer id='relation_to_primary' caption="Relation to primary unit" type="double"/>
+	<meta-layer id='primary_unit' caption="Primary unit" type="concept"/>
+	<gr f="_ALL_DIMENSION_UNITS" r="specialization">
+		
+		<sc t="_IMPERIAL_UNITS" />
+		<sc t="_SI_UNITS" />
+		<sc t="_GRAVITATIONAL_UNITS" />
+		
+		<sc t="_UNITS_SIZE"/>
+		<sc t="_UNITS_AREA"/>
+		<sc t="_UNITS_WEIGHT"/>
+		<sc t="_UNITS_FORCE"/>
+		<sc t="_UNITS_SPEED"/>
+		<sc t="_UNITS_LOADING"/>
+		<sc t="_UNITS_DATE"/>
+		<sc t="_UNITS_SCALAR"/>
+		<sc t="_UNITS_CLIMB_RATE"/>
+		<sc t="_UNITS_POWER"/>
+		<sc t="_UNITS_TIME"/>
+		<sc t="_UNITS_POWER_TO_MASS_RATIO"/>
+	</gr>
+	
+	<gr f="_SI_UNITS" r="specialization" >
+		<sc t="метр" />
+		<sc t="грамм" />
+		<sc t="ватт" />
+		<sc t="джоуль" />
+		<sc t="ньютон" />
+		<sc t="метр в секунду" />
+		<sc t="метр в минуту" />
+		<sc t="километр в час" />
+		<sc t="ватт на грамм" />
+		<sc t="ватт на килограмм" />
+		<sc t="грамм на метр^2" />
+		<sc t="грамм на сантиметр^2" />
+		<sc t="грамм на миллиметр^2" />
+	</gr>
+	
+	<gr f="_IMPERIAL_UNITS" r="specialization" >
+		<sc t="фут" />
+		<sc t="дюйм" />
+		<sc t="сухопутная миля" />
+		<sc t="морская миля" />
+		<sc t="фунт" />
+		<sc t="фут в секунду" />
+		<sc t="фут в минуту" />
+		<sc t="миля в час" />
+		<sc t="фунт-сила" />
+	</gr>
+	
+	<gr f="_GRAVITATIONAL_UNITS" r="specialization" >
+		<sc t="грамм-сила" />
+		<sc t="тонна-сила" />
+	</gr>
+	
+	<gr f="_UNITS_SIZE" r="specialization" >
+		<sc t="метр" />
+		<sc t="фут" />
+		<sc t="дюйм" />
+		<sc t="сухопутная миля" />
+		<sc t="морская миля" />
+	</gr>
+	
+	<meta w="_UNITS_SIZE" v="метр" l="primary_unit"/>
+	
+	<gr f="км" r="Abbr" >
+		<gc t="километр" />
+	</gr>
+	<gr f="м" r="Abbr" >
+		<gc t="метр" />
+	</gr>
+	<gr f="см" r="Abbr" >
+		<gc t="сантиметр" />
+	</gr>
+	<gr f="мм" r="Abbr" >
+		<gc t="миллиметр" />
+	</gr>
+	<gr f="мкм" r="Abbr" >
+		<gc t="микрометр" />
+	</gr>
+	<gr f="нм" r="Abbr" >
+		<gc t="нанометр" />
+	</gr>
+
+	<gr f="миля" r="synonim" >
+		<sc t="морская миля" />
+	</gr>
+	<gr f="миля" r="synonim" >
+		<sc t="сухопутная миля" />
+	</gr>	
+ 
+	<meta w="фут" v="0.3048" l="relation_to_primary"/>
+	<meta w="дюйм" v="0.0254" l="relation_to_primary"/>
+	<meta w="сухопутная миля" v="1609.344" l="relation_to_primary"/>
+	<meta w="морская миля" v="1853.248" l="relation_to_primary"/>	
+	
+	<gr f="_UNITS_AREA" r="specialization" >
+		<sc t="метр^2" />
+		<sc t="фут^2" />
+		<sc t="гектар" />
+		<sc t="сотка" />
+	</gr>
+	
+	<meta w="_UNITS_AREA" v="метр^2" l="primary_unit"/>
+	
+	<gr f="га" r="Abbr" >
+		<gc t="гектар" />
+	</gr>	
+	
+	<meta w="гектар" v="10000" l="relation_to_primary"/>
+	<meta w="сотка" v="100" l="relation_to_primary"/>
+	
+	<gr f="_UNITS_SPEED" r="specialization" >
+		<sc t="метр в секунду" />
+		<sc t="метр в минуту" />
+		<sc t="фут в секунду" />
+		<sc t="фут в минуту" />
+		<sc t="метр в час" />
+		<sc t="миля в час" />
+		<sc t="мах" />
+		<sc t="узел" />
+	</gr>
+	
+	<meta w="_UNITS_SPEED" v="метр в секунду" l="primary_unit"/>
+	
+	<gr f="м / с" r="Abbr" >
+		<gc t="метр в секунду" />
+	</gr>
+	<gr f="м / мин" r="Abbr" >
+		<gc t="метр в секунду" />
+	</gr>
+	<gr f="кмч" r="Abbr" >
+		<gc t="километр в час" />		
+	</gr>	
+	<gr f="км / ч" r="Abbr" >
+		<gc t="километр в час" />
+	</gr>
+	
+	<meta w="метр в минуту" v="0.016666" l="relation_to_primary"/>
+	<meta w="фут в минуту" v="0.05468" l="relation_to_primary"/>
+	<meta w="фут в секунду" v="3.28084" l="relation_to_primary"/>
+	<meta w="кмч" v="0.27777" l="relation_to_primary"/>
+	<meta w="километр в час" v="0.27777" l="relation_to_primary"/>
+	<meta w="миля в час" v="0.44704" l="relation_to_primary"/>
+	<meta w="узел" v="0.514" l="relation_to_primary"/>
+	<meta w="мах" v="320" l="relation_to_primary"/>
+	
+	<gr f="_UNITS_WEIGHT" r="specialization" >
+		<sc t="грамм" />
+		<sc t="центнер" />
+		<sc t="тонна" />
+		<sc t="фунт" />
+	</gr>
+	
+	<meta w="_UNITS_WEIGHT" v="грамм" l="primary_unit"/>
+	
+	<gr f="гр" r="Abbr" >
+		<gc t="грамм" />
+	</gr>
+	<gr f="г" r="Abbr" >
+		<gc t="грамм" />
+	</gr>
+	<gr f="кг" r="Abbr" >
+		<gc t="килограмм" />
+	</gr>
+	<gr f="т" r="Abbr" >
+		<gc t="тонна" />
+	</gr>
+	
+	<meta w="центнер" v="100000" l="relation_to_primary"/>
+	<meta w="тонна" v="1000000" l="relation_to_primary"/>
+	<meta w="фунт" v="0.45359237" l="relation_to_primary"/>
+	
+	<gr f="_UNITS_TIME" r="specialization" >
+		<sc t="секунда" />
+		<sc t="минута" />
+		<sc t="час" />
+		<sc t="сутки" />
+	</gr>
+	
+	<meta w="_UNITS_TIME" v="секунда" l="primary_unit"/>
+	
+	<gr f="с" r="Abbr" >
+		<gc t="секунда" />
+	</gr>
+	<gr f="сек" r="Abbr" >
+		<gc t="секунда" />
+	</gr>
+	<gr f="м" r="Abbr" >
+		<gc t="минута" />
+	</gr>
+	<gr f="мин" r="Abbr" >
+		<gc t="минута" />
+	</gr>
+	<gr f="ч" r="Abbr" >
+		<gc t="час" />
+	</gr>
+	
+	<meta w="минута" v="60" l="relation_to_primary"/>
+	<meta w="час" v="3600" l="relation_to_primary"/>
+	<meta w="сутки" v="86400" l="relation_to_primary"/>
+	
+	<gr f="_UNITS_FORCE" r="specialization" >
+		<sc t="ньютон" />
+		<sc t="грамм-сила" />
+		<sc t="тонна-сила" />
+		<sc t="фунт-сила" />
+	</gr>
+	
+	<meta w="_UNITS_FORCE" v="ньютон" l="primary_unit"/>
+	
+	<gr f="н" r="Abbr" >
+		<gc t="ньютон" />
+	</gr>
+	<gr f="кн" r="Abbr" >
+		<gc t="килоньютон" />
+	</gr>
+	<gr f="кгс" r="Abbr" >
+		<gc t="килограмм-сила" />
+	</gr>
+	<gr f="кг" r="Abbr" >
+		<gc t="килограмм-сила" />
+	</gr>
+	<gr f="гс" r="Abbr" >
+		<gc t="грамм-сила" />
+	</gr>
+	<gr f="тс" r="Abbr" >
+		<gc t="тонна-сила" />
+	</gr>
+	
+	<meta w="грамм-сила" v="0.00980665" l="relation_to_primary"/>
+	<meta w="тонна-сила" v="9806.65" l="relation_to_primary"/>
+	<meta w="тонна-сила" v="4.448222" l="relation_to_primary"/>
+	
+	<gr f="_UNITS_POWER" r="specialization" >
+		<sc t="ватт" />
+		<sc t="лошадиная сила" />
+	</gr>
+	
+	<meta w="_UNITS_POWER" v="ватт" l="primary_unit"/>
+	
+	<gr f="вт" r="Abbr" >
+		<gc t="ватт" />
+	</gr>
+	<gr f="квт" r="Abbr" >
+		<gc t="киловатт" />
+	</gr>
+	<gr f="лс" r="Abbr" >
+		<gc t="лошадиная сила" />
+	</gr>
+	<gr f="л.с." r="Abbr" >
+		<gc t="лошадиная сила" />
+	</gr>
+	
+	<meta w="лошадиная сила" v="750" l="relation_to_primary"/>
+	
+	
+	<gr f="_UNITS_POWER_TO_MASS_RATIO" r="specialization" >
+		<sc t="ватт на грамм" />
+		<sc t="ватт на килограмм" />
+		<sc t="лошадиная сила на тонну" />
+		<sc t="лошадиная сила на фунт" />
+	</gr>
+	
+	<meta w="_UNITS_POWER_TO_MASS_RATIO" v="ватт на грамм" l="primary_unit"/>
+	
+	<gr f="вт / г" r="Abbr" >
+		<gc t="ватт на грамм" />
+	</gr>
+	<gr f="квт / кг" r="Abbr" >
+		<gc t="киловатт на килограмм" />
+	</gr>
+	<gr f="вт / т" r="Abbr" >
+		<gc t="ватт на тонну" />
+	</gr>
+	<gr f="квт / т" r="Abbr" >
+		<gc t="киловатт на тонну" />
+	</gr>
+	<gr f="лс / т" r="Abbr" >
+		<gc t="лошадиная сила на тонну" />
+	</gr>
+	<gr f="л.с. / т" r="Abbr" >
+		<gc t="лошадиная сила на тонну" />
+	</gr>
+	
+	<meta w="ватт на килограмм" v="0.001" l="relation_to_primary"/>
+	<meta w="лошадиная сила на тонну" v="0.00075" l="relation_to_primary"/>
+	<meta w="лошадиная сила на фунт" v="0.00000045359237" l="relation_to_primary"/>
+	
+	<gr f="_UNITS_LOADING" r="specialization" >
+		<sc t="грамм на метр^2" />
+		<sc t="грамм на сантиметр^2" />
+		<sc t="грамм на миллиметр^2" />
+	</gr>
+	
+	<meta w="_UNITS_LOADING" v="грамм на метр^2" l="primary_unit"/>
+	
+<!-- 	
+	<gr f="грамм на метр квадратный" r="synonim" >
+		<gc t="грамм на метр^2" />
+	</gr>
+	<gr f="грамм на квадратный метр" r="synonim" >
+		<gc t="грамм на метр^2" />
+	</gr>
+	<gr f="грамм на сантиметр квадратный" r="synonim" >
+		<gc t="грамм на сантиметр^2" />
+	</gr>
+	<gr f="грамм на квадратный сантиметр" r="synonim" >
+		<gc t="грамм на сантиметр^2" />
+	</gr>
+	<gr f="грамм на миллиметр квадратный" r="synonim" >
+		<gc t="грамм на миллиметр^2" />
+	</gr>
+	<gr f="грамм на квадратный миллиметр" r="synonim" >
+		<gc t="грамм на миллиметр^2" />
+	</gr>
+ -->
+ 	<gr f="г / м^2" r="Abbr" >
+		<gc t="грамм на метр^2" />
+	</gr>
+	<gr f="г / см^2" r="Abbr" >
+		<gc t="грамм на сантиметр^2" />
+	</gr>
+	<gr f="г / мм^2" r="Abbr" >
+		<gc t="грамм на миллиметр^2" />
+	</gr>
+	
+	<meta w="грамм на сантиметр^2" v="10000" l="relation_to_primary"/>
+	<meta w="грамм на миллиметр^2" v="1000000" l="relation_to_primary"/>
+</wnc>

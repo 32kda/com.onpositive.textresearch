@@ -1,0 +1,19 @@
+<wnc>
+	<meta-layer id='modalLikeVerbs' caption='List of Modal Like Verbs' type='string' />
+	<gr l='modalLikeVerbs'>
+		<meta w='любить' v='' />
+		<meta w='хотеть' v='' />
+		<meta w='желать' v='' />
+		<meta w='вожделеть' v='' />
+		<meta w='изволить' v='' />
+		<meta w='жаждать' v='' />
+		<meta w='алкать' v='' />
+		<meta w='собираться' v='' />
+		<meta w='думать' v='' />
+		<meta w='намереваться' v='' />
+		<meta w='сосредотачиваться' v='' />
+		<meta w='концентрироваться' v='' />
+		<meta w='сконцентрироваться' v='' />
+		<meta w='планировать' v='' />
+	</gr>
+</wnc>

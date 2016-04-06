@@ -1,0 +1,75 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.onpositive.text.server</groupId>
+	<artifactId>com.onpositive.text.webview</artifactId>
+	<packaging>war</packaging>
+	<name>com.onpositive.text.webview Maven Webapp</name>
+	<url>http://maven.apache.org</url>
+	
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.1-b05</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.onpositive.wikipedia.workbench</groupId>
+			<artifactId>com.onpositive.wikipedia.workbench</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.onpositive.textanalisys</groupId>
+			<artifactId>com.onpositive.textanalisys</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.freemarker</groupId>
+			<artifactId>freemarker</artifactId>
+			<version>2.3.20</version>
+		</dependency>
+		<dependency>
+			<groupId>org.commonjava.googlecode.markdown4j</groupId>
+			<artifactId>markdown4j</artifactId>
+			<version>2.2-cj-1.0</version>
+		</dependency>
+
+	</dependencies>
+	<build>
+		<finalName>com.onpositive.text.webview</finalName>
+		<plugins>
+			<plugin>
+				<!-- Jetty < 9 is in org.mortbay.jetty groupId -->
+				<groupId>org.mortbay.jetty</groupId>
+				<version>8.1.9.v20130131</version>
+				<!-- Starting from Jetty 9 groupId is org.eclipse.jetty already -->
+				<!-- <groupId>org.eclipse.jetty</groupId> -->
+				<!-- Change to latest version available from http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.eclipse.jetty%22%20AND%20a%3A%22jetty-maven-plugin%22 -->
+				<!-- <version>9.x.y.z</version> -->
+				<artifactId>jetty-maven-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.3</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+		</plugins>
+
+	</build>
+	<parent>
+		<groupId>com.onpositive.text</groupId>
+		<artifactId>com.onpositive.text.research</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>..</relativePath>
+	</parent>
+</project>

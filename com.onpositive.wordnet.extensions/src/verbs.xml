@@ -1,0 +1,11 @@
+<meanings>
+	<meaning w="умереть" allowSpecialization="true">
+		<value id="endOfLife(actor,*)" />
+		<requirement condition="actor is person" />
+	</meaning>
+	<meaning w="убить" allowSpecialization="true">
+		<value id="endOfLife(subject,reasonedBy(actor),*)" />
+		<requirement condition="actor is person" />
+		<requirement condition="subject is person" />
+	</meaning>
+</meanings>

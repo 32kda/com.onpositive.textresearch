@@ -1,0 +1,341 @@
+<html>
+<head>
+<meta charset="UTF-8"/>
+<script type="text/javascript" src="CollapsibleLists.js"></script>
+<style type="text/css">
+  .treeView{
+    -moz-user-select:none;
+    position:relative;
+    line-height: 1.5;
+  }
+
+  .treeView ul{
+    margin:0 0 0 -1.5em;
+    padding:0 0 0 1.5em;
+  }
+
+  .treeView ul ul{
+    background:url('img/list-item-contents.png') repeat-y left;
+  }
+
+  .treeView li.lastChild > ul{
+    background-image:none;
+  }
+
+  .treeView li{
+    margin:0;
+    padding:0;
+    background:url('img/list-item-root.png') no-repeat top left;
+    list-style-position:inside;
+    list-style-image:url('img/button.png');
+    cursor:auto;
+  }
+
+  .treeView li.collapsibleListOpen{
+    list-style-image:url('img/button-open.png');
+    cursor:pointer;
+  }
+
+  .treeView li.collapsibleListClosed{
+    list-style-image:url('img/button-closed.png');
+    cursor:pointer;
+  }
+
+  .treeView li li{
+    background-image:url('img/list-item.png');
+    padding-left:1.5em;
+  }
+
+  .treeView li.lastChild{
+    background-image:url('img/list-item-last.png');
+  }
+
+  .treeView li.collapsibleListOpen{
+    background-image:url('img/list-item-open.png');
+  }
+
+  .treeView li.collapsibleListOpen.lastChild{
+    background-image:url('img/list-item-last-open.png');
+  }
+
+</style>
+</head>
+<body>
+<ul class="treeView">
+<li>
+<ul class="collapsibleList">
+<li>
+Экспериментальные_летательные_аппараты
+<ul>
+<li>
+Изделие 181
+</li>
+<li>
+Экспериментальные_самолёты
+</li>
+</ul>
+</li>
+<li>
+Предприятия_Воронежа
+<ul>
+<li>
+Воронежское_акционерное_самолётостроительное_общество
+</li>
+</ul>
+</li>
+<li>
+Проекты_самолётов
+<ul>
+<li>
+Нереализованные_проекты_самолётов
+</li>
+</ul>
+</li>
+<li>
+Проекты
+<ul>
+<li>
+Нереализованные_проекты_самолётов
+</li>
+</ul>
+</li>
+<li>
+Предприятия_Воронежской_области
+<ul>
+<li>
+Воронежское_акционерное_самолётостроительное_общество
+</li>
+</ul>
+</li>
+<li>
+Управление_проектами
+<ul>
+<li>
+Нереализованные_проекты_самолётов
+</li>
+</ul>
+</li>
+<li>
+Космические_программы
+<ul>
+<li>
+Программа_«Буран»
+</li>
+</ul>
+</li>
+<li>
+Нереализованные_проекты_в_авиации
+<ul>
+<li>
+Нереализованные_проекты_самолётов
+</li>
+</ul>
+</li>
+<li>
+Военно-воздушные_силы
+<ul>
+<li>
+Ан-12
+</li>
+<li>
+Ан-26
+</li>
+<li>
+Ан-8
+</li>
+</ul>
+</li>
+<li>
+Самолёты-разведчики
+<ul>
+<li>
+Самолёты_ДРЛО
+</li>
+</ul>
+</li>
+<li>
+Летательные_аппараты
+<ul>
+<li>
+Изделие 181
+</li>
+<li>
+Поплавковые_самолёты
+</li>
+<li>
+Самолёты_Антонова
+</li>
+<li>
+Самолёты_Бериева
+</li>
+<li>
+Самолёты_Польши
+</li>
+<li>
+Экспериментальные_самолёты
+</li>
+</ul>
+</li>
+<li>
+Военные_самолёты
+<ul>
+<li>
+Военно-транспортные_самолёты
+<ul>
+<li>
+Ан-12
+</li>
+<li>
+Ан-26
+</li>
+<li>
+Ан-8
+</li>
+</ul>
+</li>
+<li>
+Самолёты_специального_назначения
+</li>
+</ul>
+</li>
+<li>
+Гидросамолёты
+<ul>
+<li>
+Поплавковые_самолёты
+</li>
+</ul>
+</li>
+<li>
+Самолёты
+<ul>
+<li>
+Ан-12
+</li>
+<li>
+Ан-124
+</li>
+<li>
+Ан-14
+</li>
+<li>
+Ан-140
+</li>
+<li>
+Ан-168
+</li>
+<li>
+Ан-2
+</li>
+<li>
+Ан-22
+</li>
+<li>
+Ан-225
+</li>
+<li>
+Ан-24
+</li>
+<li>
+Ан-26
+</li>
+<li>
+Ан-2СХ
+</li>
+<li>
+Ан-3
+</li>
+<li>
+Ан-30
+</li>
+<li>
+Ан-34
+</li>
+<li>
+Ан-38
+</li>
+<li>
+Ан-40
+</li>
+<li>
+Ан-71
+</li>
+<li>
+Ан-74ТК-300
+</li>
+<li>
+Ан-8
+</li>
+<li>
+Грузовые_самолёты
+</li>
+<li>
+Поплавковые_самолёты
+</li>
+<li>
+Самолёты_Антонова
+</li>
+<li>
+Самолёты_Бериева
+</li>
+<li>
+Самолёты_Польши
+</li>
+<li>
+Самолёты_общего_назначения
+</li>
+<li>
+Сельскохозяйственные_самолёты
+<ul>
+<li>
+Ан-2СХ
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+Неосуществлённые_проекты
+<ul>
+<li>
+Нереализованные_проекты_самолётов
+</li>
+</ul>
+</li>
+<li>
+Гражданские_самолёты
+<ul>
+<li>
+Грузовые_самолёты
+</li>
+<li>
+Пассажирские_самолёты
+<ul>
+<li>
+Двухпалубные_самолёты
+</li>
+</ul>
+</li>
+<li>
+Самолёты_общего_назначения
+</li>
+<li>
+Сельскохозяйственные_самолёты
+<ul>
+<li>
+Ан-2СХ
+</li>
+</ul>
+</li>
+</ul>
+</li>
+
+</ul>
+</li>
+</ul>
+<script type="text/javascript">
+	//make the appropriate lists collapsible
+	CollapsibleLists.apply();
+</script>
+</body>
+</html>

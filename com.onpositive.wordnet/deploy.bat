@@ -1,0 +1,1 @@
+mvn -Dgpg.passphrase="Demakova27" -Darguments="-Dgpg.passphrase=Demakova27" clean deploy

@@ -1,0 +1,35 @@
+<wnc>
+	<meta-layer id='relation_to_primary' caption="Relation to primary unit" type="double"/>
+	<meta-layer id='formula' caption="Formulas" type="string"/>
+	<meta-layer id='primary_unit' caption="relation" type="concept"/>
+	<gr f="_ALL_DIMENSION_UNITS" r="specialization">
+		<sc t="_IMPERIAL_UNITS" />
+		<sc t="_UNITS_SIZE"/>
+		<sc t="_UNITS_AREA"/>
+		<sc t="_UNITS_WEIGHT"/>
+		<sc t="_UNITS_FORCE"/>
+		<sc t="_UNITS_SPEED"/>
+		<sc t="_UNITS_LOADING"/>
+		<sc t="_UNITS_DATE"/>
+		<sc t="_UNITS_SCALAR"/>
+		<sc t="_UNITS_CLIMB_RATE"/>
+		<sc t="_UNITS_POWER"/>
+		<sc t="_UNITS_TIME"/>
+		<sc t="_UNITS_POWER_TO_MASS_RATIO"/>
+	</gr>
+	<gr f="_UNITS_SPEED" r="specialization" >
+		<sc t="м / c" />
+		<sc t="м/c" />
+		<sc t="метр в секунду" />
+		<sc t="кмч" />
+		<sc t="км/ч" />
+		<sc t="километр в час" />
+	</gr>
+	<gr f="_UNITS_SIZE" r="specialization" >
+		<sc t="метр" />
+		<sc t="ярд" />
+	</gr>
+	<meta w="кмч" v="0.27777777" l="relation_to_primary"/>
+	<meta w="_UNITS_AREA" v="_UNITS_SIZE*_UNITS_SIZE" l="formula"/>
+	<meta w="_UNITS_SIZE" v="метр" l="primary_unit"/>
+</wnc>

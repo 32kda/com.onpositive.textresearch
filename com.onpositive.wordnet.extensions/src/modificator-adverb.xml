@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wnc>
+	<meta-layer id='modificator_adverb' caption="Relation to primary unit"
+		type="boolean" />
+	<gr l="modificator_adverb">
+		<meta w="абсолютно" v="true" />
+
+		<meta w="больно" v="true" />
+
+		<meta w="вдвое" v="true" />
+		<meta w="вдвойне" v="true" />
+		<!-- <meta w="вельми" v="false"/> -->
+		<meta w="весьма" v="true" />
+		<!-- <meta w="вровень" v="false"/> -->
+		<meta w="втрое" v="true" />
+		<meta w="втройне" v="true" />
+
+		<meta w="гораздо" v="true" />
+
+		<meta w="довольно" v="true" />
+		<meta w="довольно-таки" v="true" />
+		<!-- <meta w="дополна" v="false"/> -->
+		<!-- <meta w="досуха" v="false"/> -->
+
+		<meta w="едва" v="true" />
+
+		<!-- <meta w="кольми" v="false"/> -->
+		<meta w="крайне" v="true" />
+
+		<!-- <meta w="маленечко" v="false"/> -->
+
+		<!-- <meta w="надвое" v="false"/> -->
+		<meta w="наполовину" v="true" />
+		<meta w="настолько" v="true" />
+		<meta w="необычно" v="true" />
+		<meta w="несколько" v="true" />
+
+		<meta w="отчасти" v="true" />
+		<meta w="очень" v="true" />
+
+		<!-- <meta w="по горло" v="false"/> -->
+		<!-- <meta w="помногу" v="false"/> -->
+		<!-- <meta w="порядком" v="false"/> -->
+		<meta w="почти" v="true" />
+		<meta w="прямо" v="true" />
+
+		<meta w="слишком" v="true" />
+		<meta w="совершенно" v="true" />
+		<meta w="совсем" v="true" />
+		<meta w="страшно" v="true" />
+
+		<meta w="удивительно" v="true" />
+
+		<meta w="чересчур" v="true" />
+		<meta w="чрезвычайно" v="true" />
+	</gr>
+</wnc>
